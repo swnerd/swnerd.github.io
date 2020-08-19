@@ -1,6 +1,7 @@
-site_name: Conductor for Gluent Documentation
+site_name: swnerd
 site_author: Paul Elbow
-site_description: "Documentation for Conductor for Gluent"
+site_description: "swnerd - Main Page"
+site_url: https://swnerd.github.io/
 copyright: "© Copyright 2020, Paul Elbow"
 theme:
     name: bootstrap
