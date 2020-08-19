@@ -1,7 +1,7 @@
 site_name: swnerd
 site_author: Paul Elbow
 site_description: "swnerd - Main Page"
-site_url: https://swnerd.github.io/
+site_url: "https://swnerd.github.io/"
 copyright: "© Copyright 2020, Paul Elbow"
 theme:
     name: bootstrap
