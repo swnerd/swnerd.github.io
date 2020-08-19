@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>None</loc>
+     <loc>https://swnerd.github.io/c4g-doc/</loc>
      <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>None</loc>
+     <loc>https://swnerd.github.io/c4g-doc/installation/</loc>
      <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>None</loc>
+     <loc>https://swnerd.github.io/c4g-doc/relnotes/</loc>
      <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
